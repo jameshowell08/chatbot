@@ -1,14 +1,3 @@
-//const apiKey = "AIzaSyC8h8c-A3zuFMNVH3rDFRvhw8IsRe1XqLY";
-
-/*
- * Install the Generative AI SDK
- *
- * $ npm install @google/generative-ai
- *
- * See the getting started guide for more information
- * https://ai.google.dev/gemini-api/docs/get-started/node
- */
-
 import {
   GoogleGenerativeAI,
   HarmCategory,
